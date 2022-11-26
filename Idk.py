@@ -9,3 +9,5 @@ q = coffee + pencils
 x = 26
 q = 30
 print (x + q)
+import os
+os.system ("say seeya later yall")
