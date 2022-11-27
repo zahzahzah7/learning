@@ -31,3 +31,4 @@ os.system ("say Hello")
 # would be whatever you said A equaled closest to in the code
 # python always uses pemdas so you may need to use perentices to get the 
 # correct answer or you may get the wrong answer 
+# Eol syntaxerror means end of line
